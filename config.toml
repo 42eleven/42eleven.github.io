@@ -1,3 +1,44 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://42eleven.com'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'FortyTwo Eleven Consulting'
+theme = 'hello-friend-ng'
+
+[params]
+  homeSubtitle = "Software and Cloud Consulting Professionals"
+  description = "FortyTwo Eleven Consulting - Software and cloud professionals"
+
+[[menu.main]]
+    identifier = "about"
+    name       = "About"
+    url        = "/about"
+
+[[params.social]]
+  name = "github"
+  url = "https://github.com/42eleven"
+
+[[params.social]]
+  name = "email"
+  url = "hej@42eleven.com"
+
+ [params.logo]
+    logoMark     = ">"
+    logoText     = "42eleven"
+    logoHomeLink = "/"
+    # Set true to remove the logo cursor entirely.
+    # logoCursorDisabled = false
+    # Set to a valid CSS color to change the cursor in the logo.
+    # logoCursorColor    = "#67a2c9"
+    # Set to a valid CSS time value to change the animation duration, "0s" to disable.
+    # logoCursorAnimate  = "5s"
+
+  [params.footer]
+    trademark = true
+    rss = false
+    copyright = false
+    author = false
+
+    topText = ["FortyTwo Eleven Consulting AB"]
+    bottomText = [
+      "Org.nr: 559358-1746",
+      "Box 7335, 103 90, Stockholm"
+    ]
