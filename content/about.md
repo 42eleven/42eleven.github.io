@@ -1,19 +1,19 @@
 +++
 title = "About"
-date = "2014-04-09"
-aliases = ["about-us","about-hugo","contact"]
+date = "2022-03-21"
+aliases = ["about"]
 [ author ]
-  name = "Hugo Authors"
+  name = "Konstantinos Livieratos"
 +++
 
-Hugo is the **world’s fastest framework for building websites**. It is written in Go.
+FortyTwo Eleven is a Swedish-registered company through which [koslib](https://www.koslib.com) is offering consulting services.
 
-It makes use of a variety of open source projects including:
+Clients are selected very carefully and we focus more on cultivating long-term relationships with good quality of product rather than maximizing volume.
 
-* https://github.com/russross/blackfriday
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+Some of the technologies we might can help with:
+* Python
+* Go
+* AWS (containerized solutions)
+* Kubernetes
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+To get in touch, send an email at [hej@42eleven.com](mailto:hej@42eleven.com).
