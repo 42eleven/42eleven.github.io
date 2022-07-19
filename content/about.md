@@ -6,14 +6,14 @@ aliases = ["about"]
   name = "Konstantinos Livieratos"
 +++
 
-FortyTwo Eleven is a Swedish-registered company through which [koslib](https://www.koslib.com) is offering consulting services.
+FortyTwo Eleven is a Swedish-registered company through which [koslib](https://www.koslib.com) & selected partners offer top-class consulting services.
 
-Clients are selected very carefully and we focus more on cultivating long-term relationships with good quality of product rather than maximizing volume.
+Clients are selected very elaborately with focus on cultivating long-term relationships and quality deliverables on a set of niche topics rather than maximizing volume.
 
-Some of the technologies we might can help with:
-* Python
-* Go
-* AWS (containerized solutions)
-* Kubernetes
+Focus areas:
+* (tech) AWS
+* (tech) Kubernetes
+* (culture & tech) SRE
+* (culture) DevOps
 
-To get in touch, send an email at [hej@42eleven.com](mailto:hej@42eleven.com).
+Think we can help? Get in touch at [hej@42eleven.com](mailto:hej@42eleven.com).

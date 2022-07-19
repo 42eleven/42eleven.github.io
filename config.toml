@@ -4,8 +4,8 @@ title = 'FortyTwo Eleven Consulting'
 theme = 'hello-friend-ng'
 
 [params]
-  homeSubtitle = "Software and Cloud Consulting Professionals"
-  description = "FortyTwo Eleven Consulting - Software and cloud professionals"
+  homeSubtitle = "Cloud-native technologies professionals"
+  description = "FortyTwo Eleven Consulting - Cloud-native technologies professionals"
 
 [[menu.main]]
     identifier = "about"
